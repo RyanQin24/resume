@@ -1,0 +1,167 @@
+% Setup and Packages
+
+% Sets the document type and font size
+\documentclass[10pt]{article} 
+
+%packages
+\usepackage[margin=0.2in]{geometry} 
+\usepackage[colorlinks=true,urlcolor=black]{hyperref} 
+\usepackage[normalem]{ulem}
+\usepackage{fontawesome5}
+
+% Moves underline lower
+\renewcommand{\ULdepth}{4.0pt} 
+
+% Removes page numbers
+\pagestyle{empty} 
+
+% global variables
+
+% First Section spacing variable
+\newcommand{\secsep}{0.5em}
+
+% Section to Section spacing
+\newcommand{\SSsep}{-2.0em}
+
+% line to line seaparation
+\newcommand{\LtLsep}{0.5em}
+
+% Main Header and Line spacing
+\newcommand{\MHtLsep}{-0.7em}
+
+% Line to Header spacing
+\newcommand{\LtHsep}{0.9em}
+
+% tab offset
+\newcommand{\tabOffSet}{1.0em}
+
+% Start of the document content
+\begin{document} 
+
+% Header
+\begin{center} 
+    {\LARGE \textbf{Ryan Qin}} \\[0.7em]
+
+    % Links row
+    % link spacing variable
+    \newcommand{\linksep}{0.2em}
+
+    \href{tel:+14169394721}{\uline{\faPhone (416)-939-4721}}
+    \hspace{\linksep}\textbar\hspace{\linksep}
+    \href{r25qin@uwaterloo.ca}{\uline{\faEnvelope \ r25qin@uwaterloo.ca}}
+    \hspace{\linksep}\textbar\hspace{\linksep}
+    \href{https://www.linkedin.com/in/ryan-qin-ece/}{\uline{\faLinkedin \ Linkedin}}
+    \hspace{\linksep}\textbar\hspace{\linksep}
+    \href{https://linkedin.com/in/yourusername}{\uline{\faGithub \ Github}}
+    \hspace{\linksep}\textbar\hspace{\linksep}
+    \href{https://www.ryanqin.com/}{\uline{\faLink \ ryanqin.com}}
+    \\[\secsep]
+\end{center} 
+
+% Education
+\section*{\large {Education}} \vspace{\MHtLsep} \hrule 
+\vspace{\LtHsep}
+\textbf{University of Waterloo} \hfill Sept 2024 - Jun 2029 \\[\LtLsep]
+Bachelor of Applied Science in \textbf{Electrical Engineering}, Honours, Co-op
+\\[\SSsep]
+
+% Technical Skills
+\section*{\large {Technical Skills}} \vspace{\MHtLsep} \hrule 
+\vspace{\LtHsep}
+\hspace*{\tabOffSet}\textbf{Languages:} C, C++, C\#, Assembly, Verilog, Java, Python, HTML/CSS, JavaScript, TypeScript \\[\LtLsep]
+\hspace*{\tabOffSet}\textbf{Technologies:} React, Node.js, MongoDB, TCP/IP, Linux, Robotics, Arduino, STM32, DSP  \\[\LtLsep]
+\hspace*{\tabOffSet}\textbf{Development Tools:} Git, Android, AWS, Fusion 360, Altium, Cadence, TensorFlow, MATLAB
+\\[\SSsep]
+
+
+%variables for experiences and Projects
+
+% vertical bar spacing
+\newcommand{\WEVBsep}{0.0em}
+
+%Work Section to Section spacing variable
+\newcommand{\WStWSsep}{-1.15em}
+
+% Title to Company spacing variable
+\newcommand{\TtCsep}{0.15em}
+
+% Company to Points spacing variable
+\newcommand{\CtPsep}{-1.55em}
+
+% Point to Point spacing variable
+\newcommand{\PtPsep}{-1.7em}
+
+% Project title to Point spacing variable
+\newcommand{\PTtPsep}{-1.7em}
+
+%Project Section to Section spacing variable
+\newcommand{\PStPSsep}{-1.15em}
+
+% Work Experiences
+\section*{\large {Professional Experiences}} \vspace{\MHtLsep} \hrule 
+\vspace{\LtHsep}
+
+%AMD
+\textbf{I/O Compliance Engineer} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} DSO, C\#, Cadence, OpenCV, TensorFlow \hfill May 2026 - Present \\[\TtCsep]
+AMD \\[\CtPsep]
+\begin{itemize}
+    \item Developing a TensorFlow-based model for predicting cause of DP and HDMI test failure\\[\PtPsep]
+    \item Designing robotic arm assembly line’s \textbf{\small E-Stop} interlock and area scanner systems, ensuring a \textbf{near-zero} residual risk \\[\PtPsep]
+    \item Configuring jet nozzle spray-pattern analyzer cameras using \textbf{\small OpenCV}, aiming to increase test-efficiency by 60\% \\[\WStWSsep]
+\end{itemize} 
+
+%ATS
+\noindent\textbf{Electrical Engineer} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} EPLAN, PLC, C\#, TCP/IP, Altium Designer, OpenCV \hfill Sep 2025 - Dec 2025 \\[\TtCsep]
+ATS Corporation \\[\CtPsep]
+\begin{itemize}
+    \item Independently drafting a pallet lift control panel in \textbf{\small EPLAN}, ensuring IEC compliance while improving assembly efficiency \\[\PtPsep]
+    \item Developing inductively isolated pulse conditioner board and schematic using \textbf{\small EPLAN}, aiming to protect \textbf{\small PLC} against stray voltage while filtering high frequency noise and sub-GHZ pulses from turbocharger’s hall-effect tachometer \\[\PtPsep]
+    \item Designing robotic arm assembly line’s \textbf{\small E-Stop} interlock and area scanner systems, ensuring a \textbf{near-zero} residual risk \\[\PtPsep]
+    \item Configuring jet nozzle spray-pattern analyzer cameras using \textbf{\small OpenCV}, aiming to increase test-efficiency by 60\% \\[\WStWSsep]
+\end{itemize}
+
+%WSP
+\noindent\textbf{Electrical Coordinator} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} C\#, .Net, Visual Studio, MicroStation, Python \hfill Jan 2025 - May 2025 \\[\TtCsep]
+WSP \\[\CtPsep]
+\begin{itemize}
+    \item Recognized by \textbf{\small WSP Canada’s} Rail and Transit VP for OCS engineering Software’s \textbf{innovation intake} potential \\[\PtPsep]
+    \item Independently developed Overhead Contact System (OCS) engineering software in \textbf{C\#}, reducing Calculation time by \textbf{40\%} \\[\PtPsep]
+    \item Implemented AI-driven weather prediction using Prophet, improving storm and temperature tolerance by 30\% \\[\SSsep]
+\end{itemize}
+
+%Projects
+\section*{\large {Projects}} \vspace{\MHtLsep} \hrule 
+\vspace{\LtHsep}
+
+%FPGA Clock
+\href{https://www.ryanqin.com/projects.html}{\textbf{FPGA Clock \footnotesize\faExternalLink*}} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} Verilog, Vivado \hfill Dec 2025 - Jan 2026 \\[\PTtPsep]
+\begin{itemize}
+    \item  Developed a \textbf{real-time} VGA digital clock for FPGA using \textbf{Verilog}, designing the logic for time counters, VGA signaling, and character rendering using \textbf{Vivado} and \textbf{HDL simulation} \\[\PtPsep]
+    \item  Implemented parameterized \textbf{\small RTL} to simplify character resizing and repositioning across display resolutions \\[\PStPSsep]
+\end{itemize}
+
+%Autodump
+\noindent\href{https://devpost.com/software/autodump-autonomous-self-emptying-trash-rover}{\textbf{Autodump \footnotesize\faExternalLink*}} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} I/O system Design, C++, TCP/IP, SSH, Python, OpenCV \hfill Nov 2025 \\[\PTtPsep]
+\begin{itemize}
+    \item  Developed an autonomous self-emptying trash robot, achieving an overall 3\textsuperscript{rd} place at MakeCU \\[\PtPsep]
+    \item  Engineered an Arduino-based serial distributed I/O system, improving software-hardware integration efficiency while maintaining pulse signal integrity for servo and ultrasonic sensors \\[\PtPsep]
+    \item  Designed \textbf{ArUco} marker navigation system in \textbf{OpenCV}, allowing the robot to \textbf{autonomously} navigate back to home position \\[\PStPSsep]
+\end{itemize}
+
+%Formula Numm RC
+\noindent\href{https://github.com/RyanQin24/FormulaNULL-MotorDrivers?tab=readme-ov-file}{\textbf{Competition RC \footnotesize\faExternalLink*}} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} Power Electronic Design, Altium Designer, Assembly \hfill May 2025 \\[\PTtPsep]
+\begin{itemize}
+    \item  Built an RC car with 50\% recycled material; selected as the top qualified finalist out of 15 teams \\[\PtPsep]
+    \item  Designed a custom airsoft motor controller using MOSFET stages, relays, and Arduino for PWM signal conversion, achieving a fast lap record of 17 seconds compared to average 25 seconds lap time \\[\PtPsep]
+    \item  Engineered safe state logic on Arduino’s assembly level firmware, reducing 70\% of unexpected startup behavior risks \\[\PStPSsep]
+\end{itemize}
+
+%Baymax Bot
+\noindent\href{https://dorahacks.io/buidl/21720/}{\textbf{Baymax Bot \footnotesize\faExternalLink*}} \hspace{\WEVBsep}\textbar\hspace{\WEVBsep} Machine Learning, TCP/IP, Linux, Python, C++, UART, FPGA \hfill May 2025 \\[\PTtPsep]
+\begin{itemize}
+    \item  Trained a voice model using Applio, replicating BayMax’s Voice with customized response from ChatGPT’s API \\[\PtPsep]
+    \item  Developed an \textbf{\small FPGA} safety controller integrated with Raspberry-Pi TCP/IP system for AI-driven A/V and motor control \\[\PStPSsep]
+\end{itemize}
+
+\end{document}
+
