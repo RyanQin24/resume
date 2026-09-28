@@ -1,6 +1,6 @@
-PWD f:\SMB\University stuff\resume\Latex\EE
+PWD c:\Users\nonst\OneDrive\Documents\Latex\resume\EE
 INPUT C:\Users\nonst\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\SMB\University stuff\resume\Latex\EE\Resume.tex
+INPUT c:\Users\nonst\OneDrive\Documents\Latex\resume\EE\Resume.tex
 OUTPUT Resume.log
 INPUT C:\Users\nonst\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\nonst\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
