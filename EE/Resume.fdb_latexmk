@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790565503.40036 "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" "Resume.pdf" "Resume" 1790565504.34791 0
+["pdflatex"] 1790568473.91037 "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" "Resume.pdf" "Resume" 1790568474.71618 0
   "C:/Users/nonst/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1783563337 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/nonst/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1783286819 11548 64bb2a1821b2f4a0090f3265152e0dc8 ""
   "C:/Users/nonst/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1783286740 13333486 1cdad57909b3346d9327f85754e2e4c5 ""
@@ -75,10 +75,10 @@
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Resume.aux" 1790565504 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "Resume.out" 1790565504 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Resume.tex" 1790565502 9179 b2d49f122c04136e64a109de1f32c291 ""
-  "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" 1790565502 9179 b2d49f122c04136e64a109de1f32c291 ""
+  "Resume.aux" 1790568474 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "Resume.out" 1790568474 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Resume.tex" 1790568473 9317 84054f7cd0631412a059cd7759ee9f1f ""
+  "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" 1790568473 9317 84054f7cd0631412a059cd7759ee9f1f ""
   (generated)
   "Resume.aux"
   "Resume.log"
