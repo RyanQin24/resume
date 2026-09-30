@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790568473.91037 "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" "Resume.pdf" "Resume" 1790568474.71618 0
+["pdflatex"] 1790730228.17608 "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" "Resume.pdf" "Resume" 1790730229.00498 0
   "C:/Users/nonst/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1783563337 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/nonst/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1783286819 11548 64bb2a1821b2f4a0090f3265152e0dc8 ""
   "C:/Users/nonst/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1783286740 13333486 1cdad57909b3346d9327f85754e2e4c5 ""
@@ -22,9 +22,7 @@
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb" 1247596667 32007 e8fa0078355f39467039935974716569 ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1247596667 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
-  "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1651500229 204258 aba4eee5a17f42be814f3d784d0cfb5a ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651500229 295323 07c90be888af62cddcbea2d451a520d3 ""
@@ -75,10 +73,10 @@
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/nonst/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Resume.aux" 1790568474 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "Resume.out" 1790568474 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Resume.tex" 1790568473 9317 84054f7cd0631412a059cd7759ee9f1f ""
-  "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" 1790568473 9317 84054f7cd0631412a059cd7759ee9f1f ""
+  "Resume.aux" 1790730228 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "Resume.out" 1790730228 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Resume.tex" 1790730227 9371 efe7f3d4cc2dde7d38a192eb52c5a13e ""
+  "c:/Users/nonst/OneDrive/Documents/Latex/resume/EE/Resume.tex" 1790730227 9371 efe7f3d4cc2dde7d38a192eb52c5a13e ""
   (generated)
   "Resume.aux"
   "Resume.log"
